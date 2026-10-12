@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\denys\\source\\repos\\VS\\5.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\denys\\source\\repos\\VS\\5.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F6ABE29-32C6-4797-8D28-575FD8859D8F}|5.1\\5.1.vcxproj|C:\\Users\\denys\\source\\repos\\VS\\5.1\\5.1\\5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7F6ABE29-32C6-4797-8D28-575FD8859D8F}|5.1\\5.1.vcxproj|solutionrelative:5.1\\5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,11 +23,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\denys\\source\\repos\\VS\\5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\denys\\source\\repos\\VS\\5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-12T09:23:51.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "5.1.cpp",
               "DocumentMoniker": "C:\\Users\\denys\\source\\repos\\VS\\5.1\\5.1\\5.1.cpp",
               "RelativeDocumentMoniker": "5.1\\5.1.cpp",
-              "ToolTip": "C:\\Users\\denys\\source\\repos\\VS\\5.1\\5.1\\5.1.cpp*",
-              "RelativeToolTip": "5.1\\5.1.cpp*",
+              "ToolTip": "C:\\Users\\denys\\source\\repos\\VS\\5.1\\5.1\\5.1.cpp",
+              "RelativeToolTip": "5.1\\5.1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-12T09:19:46.49Z",
